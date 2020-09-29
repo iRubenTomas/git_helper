@@ -101,3 +101,5 @@ when using git checkout
 https://training.github.com/downloads/github-git-cheat-sheet.pdf
 
 https://www.youtube.com/watch?v=aJnFGMclhU8&ab_channel=GitHubTraining%26Guides
+
+https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
