@@ -11,9 +11,6 @@ Basic concepts about Git
 - $ git config --global user.email "[email address]"
 > Sets the email you want attached to your commit transactions
 
-- $ git config --global user.email "[email address]"
-> Sets the email you want attached to your commit transactions
-
 ## Create repositories
 - $ git init
 > Turn an existing directory into a git repository
@@ -76,6 +73,9 @@ but is an important Git operation
 
 - $ git push
 > Uploads all local branch commits to GitHub
+
+- $ git push -u [remote]  [branch]
+
 
 - $ git pull
 > Updates your current local working branch with all new
