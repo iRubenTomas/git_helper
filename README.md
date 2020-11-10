@@ -3,19 +3,7 @@ Basic concepts about Git
 
 ![gitFlow](https://user-images.githubusercontent.com/26754013/94574422-0430df00-026b-11eb-8403-3fd3832fb188.PNG)
 
-…or create a new repository on the command line
-echo "# DotNet" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/iRubenTomas/DotNet.git
-git push -u origin main
 
-…or push an existing repository from the command line
-git remote add origin https://github.com/iRubenTomas/DotNet.git
-git branch -M main
-git push -u origin main
 
 ## Configure tooling
 - $ git config --global user.name "[name]"
